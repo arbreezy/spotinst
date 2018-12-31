@@ -18,3 +18,5 @@ password XXXXXXXXXXXXXXXX
   
 Install spotinst:  
 $ git clone git@bitbucket.org:endclothing/utilities.git && cd utilities/spotinst && python setup.py install
+  
+PS: Accepted values are only launches and magento but you can easily customise it based on your organisation needs.
